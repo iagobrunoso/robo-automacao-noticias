@@ -1,5 +1,4 @@
 # AutoNews AI
-# 🧠 RoboNews AI
 
 ### Automação inteligente de notícias para portais, blogs e redações digitais
 
