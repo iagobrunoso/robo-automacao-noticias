@@ -6,7 +6,7 @@
 
 ## 🚀 Visão Geral
 
-O **RoboNews AI** é uma plataforma de automação de conteúdo jornalístico que utiliza Inteligência Artificial para coletar, processar e gerar notícias a partir de múltiplas fontes RSS.
+O **Autonews AI** é uma plataforma de automação de conteúdo jornalístico que utiliza Inteligência Artificial para coletar, processar e gerar notícias a partir de múltiplas fontes RSS.
 
 A proposta é simples:
 **reduzir o trabalho operacional e liberar jornalistas para o que realmente importa — conteúdo exclusivo, análise e profundidade.**
@@ -28,7 +28,7 @@ Isso impacta diretamente produtividade, SEO e qualidade editorial.
 
 ## 💡 Solução
 
-O RoboNews AI automatiza todo o fluxo básico de produção:
+O AutoNews AI automatiza todo o fluxo básico de produção:
 
 1. Coleta notícias via RSS
 2. Processa e reestrutura o conteúdo com IA
@@ -76,7 +76,7 @@ Tudo isso com controle total do usuário.
 ## 🧱 Arquitetura do Projeto
 
 ```bash
-/robo-news-ai
+/auto-news-ai
 │
 ├── backend/
 │   ├── app.py                # API principal (FastAPI)
